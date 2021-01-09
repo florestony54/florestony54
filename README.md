@@ -21,7 +21,7 @@ I've been quite focused on machine learning, specifically deep learning. What ha
 During my free time I also like to dabble in cybersecurity and ethical hacking concepts, but I definitely have **a ton** to learn. `current_phase = 'baby steps'`
 
 ## A few articles I've written
-- [Intermediate PythonL NumPy](https://towardsdatascience.com/intermediate-python-numpy-cec1c192b8e6)
+- [Intermediate Python: NumPy](https://towardsdatascience.com/intermediate-python-numpy-cec1c192b8e6)
 - [Median Filtering with Python and OpenCV](https://medium.com/@florestony5454/median-filtering-with-python-and-opencv-2bce390be0d1)
 - [Gaussian Blurring with Python and OpenCV](https://medium.com/analytics-vidhya/gaussian-blurring-with-python-and-opencv-ba8429eb879b)
 - [Edge Detection with Python 101](https://medium.com/@florestony5454/edge-detection-with-python-101-b83d78f240c0)
