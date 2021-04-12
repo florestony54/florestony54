@@ -10,7 +10,7 @@ I'm a student at the University of Illinois Springfield pursuing an M.S. in Comp
 [Kaggle- Skin Cancer MNIST: HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000): 
 
 I'm working on building a classifier for dermatoscopic images of pigmented skin lesions using the HAM10000 dataset. 
-If you'd like to take a look at some of the work I've done so far [check out my Notebook!](https://github.com/florestony54/skin-lesion/blob/main/skin_lesion.ipynb)
+If you'd like to take a look at some of the work I've done so far [check out my Notebook!](https://github.com/florestony54/skin-lesion/blob/main/skin_lesion_densenet121.ipynb)
 
 Another smaller project I'm working on is a brief analysis of prices for the cryptocurrencies Ethereum and Bitcoin. Feel free to check out [the notebook](https://github.com/florestony54/Eth_vs_Btc/blob/main/Eth_vs_Btc.ipynb) if you're interested!
 
