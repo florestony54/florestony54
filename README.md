@@ -15,7 +15,6 @@ I'm a dev with a Masters in Computer Science focused on Machine Learning and AI.
 - [Gaussian Blurring with Python and OpenCV](https://medium.com/analytics-vidhya/gaussian-blurring-with-python-and-opencv-ba8429eb879b)
 - [Edge Detection with Python 101](https://medium.com/@florestony5454/edge-detection-with-python-101-b83d78f240c0)
 - [CS Students: Balancing School, Work, and Personal Projects](https://medium.com/swlh/cs-students-balancing-school-work-and-personal-projects-52eb201790d)
-- 
 
 📫 If you'd like to contact me, shoot me an email at florestony5454@gmail.com
 
